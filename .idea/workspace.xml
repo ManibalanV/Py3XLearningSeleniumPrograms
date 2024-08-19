@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="791783b2-2588-472a-8383-84ddaeb53c04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Py3XLearningSeleniumPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07082024/test_sele_Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09082024/test_Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09082024/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09082024/test_Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082024/test_Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082024/test_Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082024/test_Project#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12082024/test_Project#4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kbSDszrLKqFOMx4NZbAEJnypps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
+    "Python tests.Python tests in test_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Lab007.py.executor": "Run",
+    "Python tests.Python tests in test_Lab008.py.executor": "Run",
+    "Python tests.Python tests in test_Project#3.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
+    "Python.test_sele_Lab001.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manib\PycharmProjects\Py3XLearningSeleniumPrograms\12082024" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_sele_Lab001.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07082024te" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sele_Lab001.test_sample&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_sele_Lab001.test_sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="791783b2-2588-472a-8383-84ddaeb53c04" name="Changes" comment="" />
+      <created>1723550667152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723550667152</updated>
+    </task>
+    <servers />
+  </component>
+</project>
