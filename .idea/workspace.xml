@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="791783b2-2588-472a-8383-84ddaeb53c04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py3XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07082024/test_sele_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09082024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09082024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09082024/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Project#3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Project#4.py" afterDir="false" />
+    <list default="true" id="791783b2-2588-472a-8383-84ddaeb53c04" name="Changes" comment="till 12/08/2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12082024/test_Project#4.py" beforeDir="false" afterPath="$PROJECT_DIR$/12082024/test_Project#4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
-    "Python tests.Python tests in test_Lab002.py.executor": "Run",
-    "Python tests.Python tests in test_Lab003.py.executor": "Run",
-    "Python tests.Python tests in test_Lab004.py.executor": "Run",
-    "Python tests.Python tests in test_Lab007.py.executor": "Run",
-    "Python tests.Python tests in test_Lab008.py.executor": "Run",
-    "Python tests.Python tests in test_Project#3.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
-    "Python.test_sele_Lab001.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab004.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab007.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab008.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Project#3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_sele_Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\manib\PycharmProjects\Py3XLearningSeleniumPrograms\12082024" />
@@ -108,6 +93,27 @@
       <option name="presentableId" value="Default" />
       <updated>1723550667152</updated>
     </task>
+    <task id="LOCAL-00001" summary="till 12/08/2024">
+      <option name="closed" value="true" />
+      <created>1724064419342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724064419342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="till 12/08/2024">
+      <option name="closed" value="true" />
+      <created>1724064628802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724064628802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="till 12/08/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="till 12/08/2024" />
   </component>
 </project>
